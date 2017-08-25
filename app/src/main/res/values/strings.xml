@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeiChatShake</string>
+    <string name="work_on">上班</string>
+    <string name="work_off">下班</string>
+    <string name="hejia_soft">和佳软件</string>
+    <string name="hejia_notification">和佳软件提醒您：</string>
+    <string name="work_on_success">上班打卡成功</string>
+    <string name="work_time">打卡时间是：</string>
+    <string name="work_off_success">下班打卡成功</string>
+    <string name="work_on_failed">您这次打卡失败了</string>
+    <string name="work_on_long">您迟到了</string>
+    <string name="work_off_long">您早退了</string>
+    <string name="app_name_1">备用</string>
+    <string name="app_name_2">备用</string>
+    <string name="app_name_3">备用</string>
+    <string name="app_name_4">备用</string>
+    <string name="app_name_5">备用</string>
+    <string name="app_name_6">备用</string>
+</resources>
